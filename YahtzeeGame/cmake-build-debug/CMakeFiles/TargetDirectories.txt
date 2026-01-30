@@ -1,0 +1,3 @@
+/home/vversaw/CLionProjects/YahtzeeGame/cmake-build-debug/CMakeFiles/YahtzeeGame.dir
+/home/vversaw/CLionProjects/YahtzeeGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vversaw/CLionProjects/YahtzeeGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
